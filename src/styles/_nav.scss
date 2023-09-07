@@ -1,0 +1,30 @@
+nav {
+    background-color: #C9C19F;
+    display: flex;
+
+    div {
+        display: flex;
+        align-items: center;
+        margin-left: 50px;
+        font-size: 24px;
+        color: white;
+    }
+    
+    ul {
+        display: flex;
+        margin-left: auto;
+        margin-right: 50px;
+    
+        li {
+            padding: 20px 20px;
+            font-size: 24px;
+            color: white;
+
+            a {
+                font-size: 24px;
+                color: white;
+            }
+        }
+    }
+}
+
